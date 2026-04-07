@@ -1,0 +1,29 @@
+{
+  "name": "sync-viz",
+  "version": "1.0.0",
+  "description": "🚀 Beautiful file synchronization tool with real-time progress visualization",
+  "main": "src/index.js",
+  "bin": {
+    "sync-viz": "bin/cli.js"
+  },
+  "scripts": {
+    "start": "node bin/cli.js",
+    "test": "node test.js"
+  },
+  "keywords": [
+    "sync",
+    "file",
+    "cli",
+    "visualization",
+    "progress",
+    "terminal",
+    "utility"
+  ],
+  "author": "nadonghuang",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
