@@ -1,0 +1,1 @@
+🚀 **Never wonder about file sync again!** sync-viz transforms枯燥的文件同步 into beautiful visual experiences. Watch as progress bars glide across your terminal while your files sync intelligently. Try it today: https://github.com/nadonghuang/sync-viz #nodejs #cli #developer-tools
